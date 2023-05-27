@@ -30,7 +30,7 @@
                     <select class="form-control" name="category" id="example-product-category">
                         <option value="utilities">Utilities</option>
                         <option value="Property"> Property </option>
-                        <option value="books">Books</option>
+                        <option value="Asupan">Asupan</option>
                     </select>
                 </div>
 

@@ -32,7 +32,7 @@
                     <select class="form-control" name="category" id="example-product-category">
                         <option value="utilities" <?= $data['category'] == "utilities" ? "selected" : "" ?>>Utilities</option>
                         <option value="Property" <?= $data['category'] == "Property" ? "selected" : "" ?>> Property</option>
-                        <option value="books" <?= $data['category'] == "books" ? "selected" : "" ?>>Books</option>
+                        <option value="Asupan" <?= $data['category'] == "Asupan" ? "selected" : "" ?>>Asupan</option>
                     </select>
                 </div>
 
